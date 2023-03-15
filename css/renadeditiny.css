@@ -1,0 +1,257 @@
+/*تعديلات  تسجيل الدخول */
+
+body {
+    margin: 0;
+    direction: rtl;
+    font-family: NotoNaskhArabic;
+}
+p{
+    font-size:15px;
+}
+#a1{
+    padding:0px;
+    font-size:13px;
+}
+h3{
+    padding-right:10px;
+}
+/*  استعادة كلة المرور*/
+.height1{
+    height:300px;
+}
+.forgetpass{
+    width:40%;
+  background-color:#eee;
+    text-align: center;
+    margin: auto;
+    padding-bottom:20px;
+    
+}
+.forgetpass label{
+padding:30px;
+}
+.forgetpass .mb-3{
+    padding-right:20px;
+    padding-left:20px;
+    padding-bottom:10px;
+}
+/* تعديلات الصفحة الرئيسئة*/
+.hide {
+    display: none;
+    
+   
+    
+  }
+.text3 .hide {
+   
+    text-align: center;
+    font-size:10px;
+}
+.text4 .hide {
+   
+    text-align: center;
+    font-size:10px;
+}
+.text3:hover .hide{
+    display:block !important;
+    transition: 0.10s;
+   
+}
+.text4:hover .hide{
+    display:block !important;
+    transition: 0.10s;
+   
+}
+#a2{
+    text-decoration: none;
+    color: white;
+}
+/* personal dashbord websitedata*/
+.mydata .mydataa{
+    
+    float:right;
+    width:50%;
+    text-align: center;
+    padding-right:200px;
+}
+#h333{
+    color: #ffffff;
+    background-color: #03a9f4;
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+   
+    font-weight:400px; 
+}
+#h33{
+    color: #7a6f6f;
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+   
+    font-weight:400px;
+}
+
+.height2{
+    height:200px;
+}
+/* تعديل صفحة الخدمات*/
+
+
+.iteam-about_sevess32{
+    color: #7a6f6f;
+    padding-right:20px;
+    padding-top:30px;
+    padding-bottom:30px;
+    font-size:20px;
+    font-weight:100px;
+}
+
+
+.about_servess32 .iteam-about_sevess32  label{
+    padding-right:50px;
+    font-weight:200px;
+    font-size:16px;
+    color:black;
+}
+
+#laa{
+    
+    color:#7a6f6f;
+ padding-bottom:20px;
+ padding-right:20px;
+
+}
+
+
+#search{
+    padding-top:10px;
+    width:350px;
+}
+#lss{
+    padding-right:20px;
+    color: #7a6f6f;
+}
+
+/* للاعمال تعديل صفحة التصنيفات*/
+.workk{
+    overflow: hidden;
+}
+.classfication {
+    background-color: white;
+    float: right;
+    width:25%;
+    height:600px;
+    font-size:18px;
+    margin: auto;
+    padding-top:30px;
+    padding-right:20px;
+   
+}
+.about-work {
+    float: left;
+    width: 75%;
+    
+}
+.height3{
+    height:200px;
+}
+
+
+.workk .classfication  label{
+    padding-right:50px;
+    font-size:18px;
+    color:black;
+    padding-bottom:10px;
+}
+#search1{
+    width: 100%;
+    padding: 10px;
+    padding-bottom:10px;
+    border: 2px solid #eee;
+    padding-top:10px;
+    width:340px;
+    border-radius:8%;
+}
+.ffe label{
+    width: 100%;
+    padding: 10px;
+    padding-bottom:10px;
+    border: 2px solid #eee;
+    padding-top:10px;
+    width:340px;
+    border-radius:8%;
+}
+.about-work-flex{
+    display: flex;
+    justify-content:space-between;
+}
+#ss{
+    padding-right:10px;
+    padding-top:10px;
+}
+ .b3{
+    padding:10px;
+    background-color: #03a9f4;
+    color: white;
+    text-align:center;
+    padding-right:40px;
+    padding-left:40px;
+    border-radius:10%;
+    font-size: 20px;
+    
+}
+
+/* صفحة المشاريع*/
+.projects {
+    overflow: hidden;
+}
+.projects .projectclass{
+    float: right;
+    width:25%;
+    padding-right:20px;
+    background-color:white;
+    padding-top:20px;
+    padding-bottom:40px;
+    font-size:18px;
+}
+ .projects .about-project{
+    float: left;
+width:60%;
+}
+.about-project .container{
+width:90%;
+}
+.projectclass label{
+
+
+ padding-bottom:10px;}
+ /* صفحة المنفذين*/
+ .freelancer{
+    overflow: hidden;
+ }
+ .freelancer .freelancerclass{
+    width:25%;
+    float:right;
+    padding-right:20px;
+    background-color:white;
+    padding-top:20px;
+    padding-bottom:40px;
+    font-size:18px;
+ }
+ .freelancerclass label{
+    padding-bottom:10px;
+ }
+ .freelancer .about-enform{
+    float:left;
+    width:75%;
+ }
+
+ .last{
+    text-align: center;
+ }
+ /* navbar*/
+ 
+ 

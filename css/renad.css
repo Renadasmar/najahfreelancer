@@ -1,0 +1,17 @@
+/*.all-input{
+    background-color:white;
+    width:40%;
+    margin: auto;
+    border-radius:10%;
+    padding-top:20px;
+
+} 
+.all-input button{
+
+    background-color: #0b7fdb;
+    width:140px;
+    color:white;
+    height:45px;
+    border-radius:9%;
+
+}

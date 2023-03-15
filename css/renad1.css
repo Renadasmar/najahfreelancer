@@ -1,0 +1,486 @@
+
+body{
+background-color: #eee;
+font-size:20px;
+
+}
+.container1{
+    margin: auto;
+   width:60%;
+   background-color:#ffffff;
+   border-width:2px;
+   background-color: #eee;
+   border-color:#ededed;
+   border-style:solid;
+padding:30px;
+margin-top:60px;
+}
+
+.hero2{
+   
+    width:80%;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.container1 .text1{
+    padding-top:50px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.text1  .item h4{
+    font-size:18px;
+    text-align: center;
+    padding-bottom:16px;
+    
+}
+.container1 .text1 i{
+    padding-right:48px;
+    padding-bottom:10px;
+    padding-top:7px;
+    font-size:23px;
+    color:green;
+}
+.hero2 .progress .progress-bar{
+    background-color:green;
+    
+}
+.hero2 .progress{
+    background-color: white;
+  
+}
+
+.contain1 h3{
+display: inline-block;
+    padding-top:50px;
+    padding-bottom:15px;
+    padding-left:7px;
+    font-size:27px;
+}
+.contain1 h5{
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size:13px;
+}
+*{
+    font-size:15px;
+}
+
+/* sig in 4 */
+.contain2 h2{
+    padding-top: 30px;
+    padding-bottom:20px;
+    font-size:15px;
+}
+.contain2 h4{
+    padding-top:8px;
+    padding-bottom:8px;
+    font-size:15px;
+}
+.form-check{
+    font-size: 18px;
+    text-align:right;
+    width:40%;
+    
+}
+
+
+.contain2{
+    overflow: hidden;
+}
+ .contain2 .b1{
+float:left;
+    background-color:#03a9f4;
+    border-color:white;
+   padding-left:20px;
+   padding-right:20px;
+    padding-top:10px;
+    border-width:0px;
+    padding-bottom:10px;
+    margin-top: 30px;
+    color:white;
+    
+}
+
+/*  personal dashbord  /*
+ /* icons in navbar in sign 3 , 4 , personaldashbord*/
+ 
+ 
+nav .icons{
+    display: flex;
+    justify-content: space-between;
+    padding-right:13px;
+}
+ nav .mains{
+   
+   display:flex;
+   justify-content: space-between;
+   padding-right:100px;
+ }
+ nav .icons i{
+    font-size:25px;
+    color: #7a6f6f;
+    
+ }
+ nav  .icons a i{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+
+ }
+ 
+ nav  .icons i:hover{
+    background-color:#eee;
+    
+ }
+  /*
+ 
+.profile-content{
+    height:400px;
+    width:100%;
+    text-align: center;
+    border-width:1px;
+    border-color:#eee;
+    border-style:solid;
+}
+.profile-content .profile-img img{
+    
+    border-radius: 50%; /*  opera, IE9, */
+ -webkit-border-radius: 50%;  /* safari , chrome */
+  -moz-border-radius: 50%;  /* mozila */
+/*
+.profile-content a{
+
+text-decoration: none;
+color: #7a6f6f;
+font-size:20px;
+}
+.profile-content  i{
+   color: #7a6f6f;
+
+}
+.setting{
+    background-color: rgb(255, 255, 255);
+    width:100%;
+    border-width:1px;
+    border-color:#eee;
+    border-style:solid;
+    font-weight:400px;
+    font-size:18px;
+
+} 
+.setting h2{
+    text-align:center;
+    color: #7a6f6f;
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-width:1px;
+    border-color:#eee;
+    border-style:solid;
+    font-weight:400px;
+    color:#7a6f6f
+}
+.setting #h31{
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+   
+    font-weight:400px;
+    background-color: #03a9f4;
+    color: white;
+    
+}
+.setting  a{
+    text-decoration: none;
+}
+.setting #h32{
+    
+    color: #7a6f6f;
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+   
+    font-weight:400px;
+}
+.setting h4{
+    padding-top:7px;
+    font: weight 100px;
+    font-size:16px;
+    color: #03a9f4;
+    padding-right:4px;
+}
+.container .profile{
+    overflow: hidden;
+}
+
+.container .profile1{
+    background-color: rgb(255, 255, 255);
+    width:25%;
+    float: right;
+ }
+ .container .profile2{
+    width:70%;
+    float: left;
+   
+}
+.profile-content2{
+    overflow: hidden;
+    padding-right:50px;
+}
+.container .profile2 .profile-content2 .float1{
+width:400px;
+float: right;
+
+}
+.container .profile2 .profile-content2  .float{
+    width:400px;
+    float: left;
+    
+     
+}
+.clear{
+    clear: both;
+}
+.profile-content2 .form-check{
+    width:30%;
+}
+ .profile-content2 .form-check .form-check-input{
+    padding-top:10px;
+}
+.profile-content2 .form-check  #la{
+    font-size:13px;
+}
+.profile-content2 .ch{
+    padding-right:30px;
+}
+
+ button{
+    float:left;
+
+}
+
+*/
+
+/* dashbord*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* notifiaction */
+ /*.notification.setting #h32{
+    background-color: white;
+    color: #7a6f6f;
+}
+ .notification .setting  #h33{
+    color: #ffffff;
+    background-color: #03a9f4;
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+   
+    font-weight:400px;
+}
+.notification{
+    overflow: hidden;
+    border-width:1px;
+    border-color:#eee;
+    border-style:solid;
+    
+
+}
+
+ .notification .notification1{
+    background-color: #ffffff;
+    width:70%;
+    float:right;
+    padding-right:40px;
+}
+.notification1 .form-check{
+    padding-top:10px;
+    width:40%;
+}
+.notification1 #la1{
+
+padding-top:20px;
+padding-top:20px;
+font-size:20px;
+}
+/* money page*/
+ /*.money .money1{
+
+    background-color: #ffffff;
+    width:70%;
+    float:right;
+    padding-right:40px;
+}
+ .money .setting #h34{
+    color: #ffffff;
+    background-color: #03a9f4;
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+   
+    font-weight:400px;   
+}
+ .money .setting #h55{
+    color: #7a6f6f;
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+   
+    font-weight:400px;
+ }
+ .money1 .money2{
+    display: flex;
+    justify-content: space-between;
+    
+ 
+ }
+ .money1 h2{
+    font-size:20px;
+    font-weight:100px;
+    padding-top:20px;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+    border-width:1px;
+    border-color:#eee;
+    color: #000000;
+    border-style:solid;
+    
+ }
+ .money #b11{
+
+background-color:green;
+border-width:0px;
+padding-left:10px;
+}
+.money button{
+    padding-top: 10px;
+   
+}
+/* تعديل الملف الشخصي*/
+/*label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: 0.4rem 0;
+}
+.personal-form{
+    width:50%;
+    margin: auto;
+    text-align: center;
+}
+.personal-form .formFileLg{
+    font-size:10px;
+}
+*/
+.container{
+    overflow: hidden;
+    background-color: #eee;
+}
+.profile{
+    background-color: #eee;
+}
+.profile1{
+    float:right;
+    width:30%;
+    
+    margin: auto;
+    text-align:center;
+}
+.profile2{
+    float:left;
+    width:60%;
+    
+   
+}
+.profile-img img{
+    width:40%;
+    text-align: center;
+    margin: auto;
+}
+.setting{
+    height:200px;
+    text-align: center;
+    border-width:1px;
+    border-color:#eee;
+    width:100%;
+    overflow: hidden;
+    
+    padding-bottom:40px;
+}
+
+.setting .setting1{
+    width:33.3%;
+    float: left;
+}
+.setting .setting2{
+    width:33.3%;
+    float: left;
+    
+}
+.setting .setting3{
+    width:33.3%;
+    float: left;
+}
+
+.profile-content .profile-img img{
+    
+    border-radius: 50%; /*  opera, IE9, */
+ -webkit-border-radius: 50%;  /* safari , chrome */
+  -moz-border-radius: 50%;  /* mozila */
+}
+
+.setting  button{
+  
+    margin-bottom:10px;
+width:100px;
+height:55px;
+}
+label{
+    padding-bottom:20px;
+    padding-top:20px;
+    display: inline-block;
+}
+select{
+    display: inline-block
+}
+.form-select{
+    width:200px;
+}
+/* بياناتي*/
+.mydata{
+    overflow:hidden;
+}
+ .mydata1{
+    float:right;
+    width:30%;
+}
+ .mydata2 {
+    float:left;
+    width:60%;
+ }
